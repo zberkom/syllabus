@@ -23,6 +23,7 @@ Ask questions about anything that confuses you.
 4. Add your name to the list of students in `/2014/ROSTER.md`.
 5. Create a file named `bash_explained.md` in this `lesson_01` directory.
 6. Inside that file, explain what the following bash commands do:
+    - `pwd`
     - `cd`
     - `ls`
     - `mkdir`
