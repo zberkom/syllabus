@@ -18,7 +18,7 @@ Ask questions about anything that confuses you.
 **Due**: Wednesday, April 16
 
 1. **Fork** this repository.
-2. **Clone** your forked repository down to your Nitrous.io box.
+2. **Clone** your forked repository down to your Nitrous.io box, inside your `workspace` folder.
 3. Start a **new branch** for your changes on your nitrous box.
 4. Add your name to the list of students in `/2014/ROSTER.md`.
 5. Create a file named `bash_explained.md` in this `lesson_01` directory.
