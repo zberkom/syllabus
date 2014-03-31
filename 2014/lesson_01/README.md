@@ -11,6 +11,8 @@ learn how to use Git and Github in this lesson today.
 1. Take the [Try Git](http://try.github.io) course.
 2. Take the [Git Real](https://www.codeschool.com/courses/git-real) course.
 3. (Optional) Take [Git Real 2](https://www.codeschool.com/courses/git-real-2).
+4. Watch the three videos about bash at [this link](http://forum.danielberkompas.com/t/class-1-agenda-apr-3/27/2).
+Ask questions about anything that confuses you.
 
 ## Assignment 2
 **Due**: Wednesday, April 16
@@ -18,10 +20,17 @@ learn how to use Git and Github in this lesson today.
 1. **Fork** this repository.
 2. **Clone** your forked repository down to your Nitrous.io box.
 3. Start a **new branch** for your changes on your nitrous box.
-4. Add your name to the list of students in `/2014/ROSTER.md`, and commit your changes.
-5. Push your branch to Github.
-6. Open a pull request back to this repository.
-7. Add a remote called `upstream` to your repo on Nitrous, pointing back to the
+4. Add your name to the list of students in `/2014/ROSTER.md`.
+5. Create a file named `bash_explained.md` in this `lesson_01` directory.
+6. Inside that file, explain what the following bash commands do:
+    - `cd`
+    - `ls`
+    - `mkdir`
+    - `touch`
+7. Commit your changes.
+8. Push your branch to Github.
+9. Open a pull request back to this repository.
+10. Add a remote called `upstream` to your repo on Nitrous, pointing back to the
 original original repository. This will allow you to pull in fresh assignments using `git fetch upstream`.
 
 Please ask any questions you have about this assignment in the forum. Especially
