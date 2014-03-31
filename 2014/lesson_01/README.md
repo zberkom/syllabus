@@ -6,7 +6,7 @@ to learn programming: first, we're going to learn our tools. You're going to
 learn how to use Git and Github in this lesson.
 
 ## Assignment 1
-**Due**: Thursday, April 10
+**Due**: Thursday, April 10  
 **Goal**: Learn the basics of the command line and Git.
 
 1. Watch the three videos about bash at [this link](http://forum.danielberkompas.com/t/class-1-agenda-apr-3/27/2).
@@ -17,7 +17,7 @@ Ask questions about anything that confuses you.
 
 
 ## Assignment 2
-**Due**: Wednesday, April 16
+**Due**: Wednesday, April 16  
 **Goal**: Prove that you understand the command line and Git.
 
 1. **Fork** this repository.
