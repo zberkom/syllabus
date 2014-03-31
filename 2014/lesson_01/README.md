@@ -5,7 +5,7 @@ Welcome to your first assignment! We are going to be following an unusual course
 to learn programming: first, we're going to learn our tools. You're going to
 learn how to use Git and Github in this lesson.
 
-## Assignment 1
+## Assignment Alpha
 **Due**: Thursday, April 10  
 **Goal**: Learn the basics of the command line and Git.
 
@@ -16,7 +16,7 @@ Ask questions about anything that confuses you.
 4. (Optional) Take [Git Real 2](https://www.codeschool.com/courses/git-real-2).
 
 
-## Assignment 2
+## Assignment Beta
 **Due**: Wednesday, April 16  
 **Goal**: Prove that you understand the command line and Git.
 
