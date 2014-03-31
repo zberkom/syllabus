@@ -18,12 +18,11 @@ learn how to use Git and Github in this lesson today.
 1. **Fork** this repository.
 2. **Clone** your forked repository down to your Nitrous.io box.
 3. Start a **new branch** for your changes on your nitrous box.
-4. Add your name to the list of students in `/2014/ROSTER.md`.
+4. Add your name to the list of students in `/2014/ROSTER.md`, and commit your changes.
 5. Push your branch to Github.
 6. Open a pull request back to this repository.
 7. Add a remote called `upstream` to your repo on Nitrous, pointing back to the
-original version of this syllabus hosted at `berkompasacademy/syllabus`. This
-will allow you to pull in fresh assignments using `git fetch upstream`.
+original original repository. This will allow you to pull in fresh assignments using `git fetch upstream`.
 
 Please ask any questions you have about this assignment in the forum. Especially
 if you need help understanding what is going on, even though you figured out how
