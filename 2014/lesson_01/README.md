@@ -3,7 +3,7 @@ Lesson 1
 
 Welcome to your first assignment! We are going to be following an unusual course
 to learn programming: first, we're going to learn our tools. You're going to
-learn how to use Git and Github in this lesson today.
+learn how to use Git and Github in this lesson.
 
 ## Assignment 1
 **Due**: Thursday, April 10
