@@ -8,11 +8,12 @@ learn how to use Git and Github in this lesson.
 ## Assignment 1
 **Due**: Thursday, April 10
 
-1. Take the [Try Git](http://try.github.io) course.
-2. Take the [Git Real](https://www.codeschool.com/courses/git-real) course.
-3. (Optional) Take [Git Real 2](https://www.codeschool.com/courses/git-real-2).
-4. Watch the three videos about bash at [this link](http://forum.danielberkompas.com/t/class-1-agenda-apr-3/27/2).
+1. Watch the three videos about bash at [this link](http://forum.danielberkompas.com/t/class-1-agenda-apr-3/27/2).
 Ask questions about anything that confuses you.
+2. Take the [Try Git](http://try.github.io) course.
+3. Take the [Git Real](https://www.codeschool.com/courses/git-real) course.
+4. (Optional) Take [Git Real 2](https://www.codeschool.com/courses/git-real-2).
+
 
 ## Assignment 2
 **Due**: Wednesday, April 16
